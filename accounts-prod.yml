@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Takunda Jengwa - Developer"
+    email: "takunda.jengwa@gmail.com"
+  onCallSupport:
+    - (555) 555-2467
+    - (555) 523-2349

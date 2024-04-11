@@ -1,0 +1,12 @@
+build:
+  version: "1.4"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+    name: "Takudzwa Jengwa - Developer"
+    email: "takudzwa.jengwa@gmail.com"
+  onCallSupport:
+    - (078) 570 8498
+    - (077) 319-5360
+

@@ -1,0 +1,11 @@
+build:
+  version: "1.3"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Takudzwa Jengwa - Developer"
+    email: "takudzwa.jengwa@gmail.com"
+  onCallSupport:
+    - (078) 570 8498
+    - (077) 319-5360
