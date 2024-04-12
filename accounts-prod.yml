@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs"
+  message: "Welcome to EazyBank accounts related Production APIs"
   contactDetails:
     name: "Takunda Jengwa - Developer"
     email: "takunda.jengwa@gmail.com"
