@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
-    name: "Takunda Jengwa - Product Owner"
-    email: "takunda.jengwa@gmail.com"
+    name: "Tadiwa Jengwa - Product Owner"
+    email: "tadiwa.jengwa@gmail.com"
   onCallSupport:
     - (078) 570 8495
     - (077) 319-5362
